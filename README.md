@@ -11,7 +11,8 @@ Docker: https://github.com/SimoneBottoni/PubMedKnowledgeGraph_Docker
 
 ## Requirements
 - [Java](https://www.oracle.com/java/technologies/downloads/) 11+
-- NodeJS and NPM available [here](https://nodejs.org/it/download/).
+- [Maven](https://maven.apache.org/download.cgi)
+- NodeJS and NPM, available [here](https://nodejs.org/it/download/).
 - [Docker](https://docs.docker.com/get-docker/)
 - [Postgres](https://www.postgresql.org) 13+
 - RabbitMQ (Docker: [rabbitmq:3.9-management](https://hub.docker.com/_/rabbitmq))
